@@ -1,0 +1,6 @@
+{
+  "name": "spy",
+  "version": "0.1.0",
+  "description": "Watch Claude work: /spy on opens a live terminal pane of every tool call and command with timings; /spy off hides it.",
+  "types": "./types/index.d.ts"
+}
